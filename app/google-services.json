@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190077913734",
+    "project_id": "loginrivera-a581f",
+    "storage_bucket": "loginrivera-a581f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190077913734:android:403cbcdcc61e9052a01f07",
+        "android_client_info": {
+          "package_name": "com.yagami.loginrivera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190077913734-mthl7ec50p1rg5n8duktmnbjaumufmga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB0MtdRHUQfir4q_NI7SildI_8t-KZ_ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190077913734-mthl7ec50p1rg5n8duktmnbjaumufmga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
